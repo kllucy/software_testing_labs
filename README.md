@@ -14,7 +14,7 @@ This repository covers all major testing methodologies — from manual debugging
 * **Assertions:** Fluent Assertions
 * **Code Coverage:** AxoCover, OpenCover
 * **Mutation Testing:** Stryker.NET
-* **IDE:** Visual Studio, JetBrains Rider, VS Code
+* **IDE:**  VS Code
 
 ---
 
@@ -77,7 +77,6 @@ dotnet test
 
 * **Author:** Lusine Kazaryan  
 * **GitHub:** [@Lucky6](https://github.com/Lucky6)  
-* **Email:** Luckykazaryan16@gmail.com
 
 ---
 
