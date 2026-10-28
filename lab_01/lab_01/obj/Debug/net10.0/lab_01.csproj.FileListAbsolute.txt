@@ -1,0 +1,16 @@
+D:\Programming\C#\software_testing_labs\lab_01\lab_01\obj\Debug\net10.0\lab_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\software_testing_labs\lab_01\lab_01\obj\Debug\net10.0\lab_01.AssemblyInfoInputs.cache
+D:\Programming\C#\software_testing_labs\lab_01\lab_01\obj\Debug\net10.0\lab_01.AssemblyInfo.cs
+D:\Programming\C#\software_testing_labs\lab_01\lab_01\obj\Debug\net10.0\lab_01.csproj.CoreCompileInputs.cache
+D:\Programming\C#\software_testing_labs\lab_01\lab_01\obj\Debug\net10.0\lab_01.sourcelink.json
+D:\Programming\C#\software_testing_labs\lab_01\lab_01\bin\Debug\net10.0\lab_01.exe
+D:\Programming\C#\software_testing_labs\lab_01\lab_01\bin\Debug\net10.0\lab_01.deps.json
+D:\Programming\C#\software_testing_labs\lab_01\lab_01\bin\Debug\net10.0\lab_01.runtimeconfig.json
+D:\Programming\C#\software_testing_labs\lab_01\lab_01\bin\Debug\net10.0\lab_01.dll
+D:\Programming\C#\software_testing_labs\lab_01\lab_01\bin\Debug\net10.0\lab_01.pdb
+D:\Programming\C#\software_testing_labs\lab_01\lab_01\obj\Debug\net10.0\lab_01.dll
+D:\Programming\C#\software_testing_labs\lab_01\lab_01\obj\Debug\net10.0\refint\lab_01.dll
+D:\Programming\C#\software_testing_labs\lab_01\lab_01\obj\Debug\net10.0\lab_01.pdb
+D:\Programming\C#\software_testing_labs\lab_01\lab_01\obj\Debug\net10.0\lab_01.genruntimeconfig.cache
+D:\Programming\C#\software_testing_labs\lab_01\lab_01\obj\Debug\net10.0\ref\lab_01.dll
+D:\Programming\C#\software_testing_labs\lab_01\lab_01\obj\Debug\net10.0\lab_01.csproj.Up2Date
